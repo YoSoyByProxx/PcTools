@@ -14,7 +14,7 @@
 - Clear Cache Pc 
 
 <p align="center">
-  ![image](https://user-images.githubusercontent.com/72410851/224609071-def88606-46ce-48b2-98ee-092772d9f1a7.png)
+  <img src= "https://user-images.githubusercontent.com/72410851/224609071-def88606-46ce-48b2-98ee-092772d9f1a7.png)">
 </p>
 
 ### ✨ Supported Apps
